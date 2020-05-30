@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sem título</title>
+<style>
+a{text-decoration:none; color:#06F;}
+</style>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> 
+
+<script>
+ 
+function calcular(){
+    var p50 = document.getElementById("prova50").value;
+    p50 = parseFloat(p50);
+     var p100 = document.getElementById("prova100").value;
+    p100 = parseFloat(p100);
+     var ficha = document.getElementById("fichamento").value;
+    ficha = parseFloat(ficha);
+     var port = document.getElementById("portfolio").value;
+    port = parseFloat(port);
+     var pu = document.getElementById("punica").value;
+    pu = parseFloat(pu);
+
+if (p50 > p100){
+    var text = eval("((((p50 + p100)/2)*0.8) + ficha + port + pu)"); 
+}
+if (p50 <= p100){
+    var text = eval("((p100 * 0.8) + ficha + port + pu)"); 
+}
+    document.getElementById("divcalteorico").innerHTML = "<h3>MÉDIA FINAL: </h3>" + text;
+}
+
+function resultado(){
+	
+}
+	/******************
+	 materias adm
+	 *****************/
+	function divadm1 (){
+		document.getElementById("divadm").innerHTML = '<a <a data-toggle="modal" href="#cteorico" >Administração da Produção</a><br>	<a href="#">Administração de Recursos Humanos</a><br>	<a href="#">Administração de Recursos Materiais e Patrimoniais</a><br>	<a href="#">Administração Financeira e Orçamento Empresarial</a><br>	<a href="#">Administração Mercadológica</a><br>	<a href="#">Analise de Sistemas de Informações</a><br>	<a href="#">Analise de Custos</a><br>	<a href="#">Análise Financeira e Operacional das Demonstrações Contábeis</a><br>	<a href="#">Auditoria de Sistemas de Informações</a><br>	<a href="#">Contabilidade Geral</a>	<br><a href="#">Direito Empresarial</a><br>		<a href="#">Direito Trabalhista</a><br>	<a href="#">Direito Tributário</a><br>	<a href="#">Economia</a><br>	<a href="#">Estagio Supervisionado I</a><br><a href="#">Estagio Supervisionado II</a><br>		<a href="#">Estagio Supervisionado III</a><br>	<a href="#">Estagio Supervisionado IV</a><br><a href="#">Estatística</a><br>	<a href="#">Filosofia e Ética Profissional</a><br>	<a href="#">Informática</a><br>	<a href="#">Instituições de Direito Publico e Privado</a><br>	<a href="#">Introdução ao Mercado de Capitais</a><br>';
+	}
+	function divadm2 (){
+		document.getElementById("divadm").innerHTML = '<a href="#">Língua Portuguesa I</a><br>	<a href="#">Matemática</a><br>	<a href="#">Matemática Financeira</a><br>	<a href="#">Metodologia do Trabalho Cientifico</a><br>	<a href="#">Métodos e Técnicas de Pesquisa</a><br>	<a href="#">Planejamento Estratégico</a><br>	<a href="#">Psicologia</a><br>';
+	}
+	function divadm3 (){
+		document.getElementById("divadm").innerHTML = '<a href="#">Sistemas de Informações Gerenciais</a><br>	<a href="#">Sociologia</a><br>	<a href="#">Teoria Geral da Administração I</a><br>	<a href="#">Teoria Geral da Administração II</a><br>	<a href="#">Trabalho de Conclusão do Curso (monografia)</a><br>';
+	}
+	
+	
+</script>
+</head>
+
+<body>
+
+    <a href="#" onclick="divadm1()">A - I</a>
+    <a href="#" onclick="divadm2()">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+    <a href="#" onclick="divadm3()">S - Z</a>
+    <div id="divadm"></div>
+    </br>
+    
+<div class="modal fade" id="cteorico">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                 <h4 class="modal-title">CALCULAR MÉDIA TEÓRICA</h4>
+            </div>
+            <div class="container"></div>
+            <div class="modal-body">
+             <div id="calteorico"><div id="divcalteorico" style="text-align:right; margin-bottom:-20px; z-index:9999; position:absolute; margin-left:300px;">teste</div><div style="margin-left:50px; margin-top:10px;">PROVA 50%: </br><input type="number" id="prova50" min="0" max="10" step="0.01" /></br></div><br><div style="margin-left:200px; margin-top:-66px;">PROVA 100%: </br><input type="number" id="prova100" min="0" max="10" step="0.01"/></br></div><br><div style="margin-left:50px;">FICHAMENTO: </br><input type="number" id="fichamento" min="0" max="10" step="0.01"/></br></div><br><div  style="margin-left:200px; margin-top:-65px;" >PORTFOLIO: </br><input type="number" id="portfolio" min="0" max="10" step="0.01"/></br></div><br><div style="margin-left:50px;">PRODUÇÃO ÚNICA: </br><input type="number" id="punica" min="0" max="10" step="0.01"/></br></div><br><div style="margin-left:200px;"><input type="submit" value="CALCULAR" class="botao" style="position:relative" onclick="calcular(); resultado();"/></div> <br />
+            
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+</body>
+</html>

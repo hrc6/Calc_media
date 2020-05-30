@@ -1,0 +1,85 @@
+<a> href="#">Álgebra Básica	</a><br>
+
+<a> href="#">Análise Real</a>	<br>
+
+<a> href="#">Antropologia Cultural</a>	<br>
+
+<a> href="#">Avaliação e Currículo</a><br>
+
+<a> href="#">Calculo: duas Variáveis Reais</a>	<br>
+
+<a> href="#">Cálculo: uma Variável Real</a>	<br>
+
+<a> href="#">Desenho Geométrico</a>	<br>
+
+<a> href="#">Didática</a>	<br>
+
+<a> href="#">Educação Especial</a>	<br>
+
+<a> href="#">Eletiva	</a><br>
+
+<a> href="#">Eletiva	</a><br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva	</a><br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva (Prática Educativa)</a><br>
+
+<a> href="#">Estagio Supervisionado (Discentes)</a><br>
+
+<a> href="#">Estagio Supervisionado (Docentes)</a><br>
+
+<a> href="#">Estagio Supervisionado (Gestão Escolar)</a><br>
+
+<a> href="#">Estágio Supervisionado (Sociedade)</a><br>
+
+<a> href="#">Estatística</a>	<br>
+
+<a> href="#">Estruturas Algébricas</a>	<br>
+
+<a> href="#">Filosofia</a>	<br>
+
+<a> href="#">Geometria Analítica</a><br>
+
+<a> href="#">Geometria Descritiva</a>	<br>
+
+<a> href="#">Geometria Espacial</a>	<br>
+
+<a> href="#">História e Lógica Matemática</a>	<br>
+
+<a> href="#">Introdução ao Estudo da Matemática</a>	<br>
+
+<a> href="#">Libras – Língua Brasileira de Sinais</a>	<br>
+
+<a> href="#">Matemática Financeira</a>	<br>
+
+<a> href="#">Metodologia do Trabalho Científico</a>	<br>
+
+<a> href="#">Métodos e Técnicas de Pesquisa	</a><br>
+
+<a> href="#">Novas Tecnologias e História da Educação</a><br>
+
+<a> href="#">Políticas e Organização da Educação Básica</a>	<br>
+
+<a> href="#">Produção Textual</a>	<br>
+
+<a> href="#">Profissionalização Docente: Trabalho e Ética</a><br>
+
+<a> href="#">Psicologia da Educação	</a><br>
+
+<a> href="#">Séries e Equações Diferenciais</a>	<br>
+
+<a> href="#">Sociologia	</a><br>
+
+<a> href="#">TCC</a><br>
+
+<a> href="#">Teoria dos Números e Conjuntos	</a><br>
+
+<a> href="#">Tópicos de Eletromagnetismo e Física Moderna</a>	<br>
+
+<a> href="#">Tópicos de Mecânica, Ondulatória e Termologia</a>	<br>
+
+<a> href="#">Trabalho de Conclusão do Curso (monografia)</a><br>	

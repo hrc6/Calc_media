@@ -1,0 +1,111 @@
+<a> href="#">Anatomia de Cabeça e Pescoço</a><br>
+
+<a> href="#">Anatomia Humana</a><br>
+
+<a> href="#">Antropologia</a><br>
+
+<a> href="#">Biologia Celular e Histologia</a><br>
+
+<a> href="#">Bioquímica</a><br>
+
+<a> href="#">Clínica de Reabilitação I</a><br>
+
+<a> href="#">Clínica de Reabilitação II</a><br>
+
+<a> href="#">Clínica de Reabilitação III</a><br>
+
+<a> href="#">com Paciente Adulto I</a><br>
+
+<a> href="#">Disciplinas do I ao V Período</a><br>
+
+<a> href="#">Disciplinas do I ao VIII Período</a><br>
+
+<a> href="#">Estágio Curricular Supervisionado</a><br>
+
+<a> href="#">Estágio Curricular Supervisionado com</a><br>
+
+<a> href="#">Estágio Curricular Supervisionado com</a><br>
+
+<a> href="#">Estágio Curricular Supervisionado com</a><br>
+
+<a> href="#">Estágio Curricular Supervisionado com Saúde Coletiva</a><br>
+
+<a> href="#">Farmacologia</a><br>
+
+<a> href="#">Filosofia e Ética</a><br>
+
+<a> href="#">Fisiologia Humana</a><br>
+
+<a> href="#">Gestão aplicada à Odontologia e Orientação Profissional</a><br>
+
+<a> href="#">Histologia e Embriologia Oral</a><br>
+
+<a> href="#">Introdução à Odontologia</a><br>
+
+<a> href="#">Laboratório Pré-Clínico I</a><br>
+
+<a> href="#">Laboratório Pré-clínico I e II</a><br>
+
+<a> href="#">Laboratório Pré-clínico I e II</a><br>
+
+<a> href="#">Laboratório Pré-clínico I e II</a><br>
+
+<a> href="#">Laboratório Pré-Clínico II</a><br>
+
+<a> href="#">Metodologia do Trabalho Científico</a><br>
+
+<a> href="#">Métodos e Técnicas de Pesquisa</a><br>
+
+<a> href="#">Microbiologia e Imunologia</a><br>
+
+<a> href="#">Odontologia Integrada I</a><br>
+
+<a> href="#">Odontologia Integrada I</a><br>
+
+<a> href="#">Odontologia Integrada I</a><br>
+
+<a> href="#">Odontologia Integrada II</a><br>
+
+<a> href="#">Odontologia Legal e Deontologia</a><br>
+
+<a> href="#">Odontologia Pediátrica I</a><br>
+
+<a> href="#">Odontologia Pediátrica I</a><br>
+
+<a> href="#">Odontologia pediátrica I e II</a><br>
+
+<a> href="#">Odontologia Pediátrica II</a><br>
+
+<a> href="#">Optativa I (Língua estrangeira)</a><br>
+
+<a> href="#">Optativa II (Libras)</a><br>
+
+<a> href="#">Optativa III ( Relações étnico raciais)</a><br>
+
+<a> href="#">Paciente Adulto I</a><br>
+
+<a> href="#">Paciente Adulto II</a><br>
+
+<a> href="#">Paciente Infantil</a><br>
+
+<a> href="#">Patologia geral</a><br>
+
+<a> href="#">Produção Textual</a><br>
+
+<a> href="#">Propedêutica Clínica I</a><br>
+
+<a> href="#">Propedêutica Clínica II</a><br>
+
+<a> href="#">Psicologia</a><br>
+
+<a> href="#">Saúde Coletiva I</a><br>
+
+<a> href="#">Saúde Coletiva II</a><br>
+
+<a> href="#">Saúde Coletiva III</a><br>
+
+<a> href="#">Sociologia</a><br>
+
+<a> href="#">Terapêutica Odontológica</a><br>
+
+<a> href="#">Trabalho de Conclusão do Curso (monografia)</a><br>

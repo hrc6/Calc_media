@@ -1,0 +1,105 @@
+@charset "utf-8";
+/*FORMATACAO DE TEXTO*/
+p{
+	text-align:justify;
+	font-size:16px;
+	font-family: "MS Serif", "New York", serif ;
+	color:#fff;
+	text-align:center;
+}
+li{
+	float:left;
+	list-style-type:none;
+	margin-left:2px;
+	font-size:25px;
+	padding:10px 40px 10px 40px;
+	border-radius:11px 11px 0 0;	
+	
+}
+a{
+	text-decoration:none;
+	color:#06F;	
+}
+a:hover{
+	color:#09f;
+}
+/**div da primeira pagina**/
+body#bodyprincipal{
+    
+	background: url(fundo_media_AGES.png) no-repeat top center fixed;
+	/**:url(wallpaper-php.jpg) no-repeat top center fixed;**/
+    background-size: cover;
+	position:fixed;
+	margin-left:312px;
+	margin-top:-38px;
+}
+div#divcursos {
+    background-color: rgba(255,255,255,.8);
+	margin-top:60px;
+	margin-left:-75px;
+    padding: 10px;
+    width: 910px;
+	height:585px;
+    min-height:450px;
+	
+}
+div#divcursos::before {
+    content: " Calcular Média - Centro Universitário AGES ";
+    font: 10pt Arial;
+    font-weight: bold;
+    color: white;
+    background-color: #273747;
+    padding: 5px;
+    display: block;
+    position: relative;
+    top: -10px;
+    left: -10px;
+    width: 910px;
+}
+
+nav{
+	margin-left:10px;
+}
+#iframemed{
+	margin-left:-9px;
+	margin-right:-16px;
+	margin-top:-15px;
+	margin-bottom:-20px;
+	width:592px;
+	height:355px;
+}
+/**organizar o tamanho dos botões do curso**/
+button#button {
+	background-color:#09F;
+	padding: 10px;
+	border-radius:8px;
+	width:165px;
+	height:60px;
+	margin: 2px 2px 2px 2px;
+	color:#03f;
+	
+
+}
+/**formato e cor dos botoes**/
+button#bdiferente{
+	background-color:#06F;
+	padding: 8px;
+	border-radius:8px;
+	padding: 10px;
+	width:165px;
+	height:60px;
+	margin: 2px 2px 2px 2px;
+	color:#03f;
+	
+
+}
+input{
+	margin-bottom:7px;
+	margin-top:10px;
+	width:110px;
+	height:28px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}

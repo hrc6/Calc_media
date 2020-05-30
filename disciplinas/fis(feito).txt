@@ -1,0 +1,80 @@
+<a href="#">Álgebra linear</a>	<br>
+<a> href="#">Antropologia Cultural</a>	<br>
+
+<a> href="#">Avaliação e Currículo</a><br>
+
+<a> href="#">Cálculo de duas variáveis reais</a><br>
+
+<a> href="#">Cálculo de uma variável real	</a><br>
+
+<a> href="#">Didática</a><br>
+
+<a> href="#">Educação Especial</a><br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva (Prática Educativa)</a><br>
+
+<a> href="#">Estagio Supervisionado (Discentes)</a><br>
+
+<a> href="#">Estagio Supervisionado (Docentes)</a><br>
+
+<a> href="#">Estagio Supervisionado (Gestão Escolar)</a><br>
+
+<a> href="#">Estágio Supervisionado (Sociedade)</a><br>
+
+<a> href="#">Estrutura da matéria	</a><br>
+
+<a> href="#">Filosofia</a>	<br>
+
+<a> href="#">Física experimental</a>	<br>
+
+<a> href="#">Física geral	</a><br>
+
+<a> href="#">Física moderna</a>	<br>
+
+<a> href="#">História das ciências</a>	<br>
+
+<a> href="#">Instrumentação para o ensino de física</a>	<br>
+
+<a> href="#">Introdução ao eletromagnetismo</a>	<br>
+
+<a>Laboratório de estrutura da matéria</a><br>
+
+<a> href="#">Libras</a>	<br>
+
+<a> href="#">Mecânica clássica</a>	<br>
+
+<a> href="#">Metodologia do Trabalho Científico</a>	<br>
+
+<a> href="#">Métodos e Técnicas de Pesquisa</a>	<br>
+
+<a> href="#">Novas Tecnologias e História da Educação</a><br>
+
+<a> href="#">Óptica básica</a>	<br>
+
+<a> href="#">Políticas e Organização da Educação Básica</a>	<br>
+
+<a> href="#">Produção Textual</a>	<br>
+
+<a> href="#">Profissionalização Docente: Trabalho e Ética</a><br>
+
+<a> href="#">Psicologia da Educação</a>	<br>
+
+<a> href="#">Química experimental	</a><br>
+
+<a> href="#">Quimica geral</a>	<br>
+
+<a> href="#">Sociologia</a><br>	
+
+<a> href="#">Termodinâmica e estática</a><br>	
+
+<a> href="#">Trabalho de Conclusão do Curso (monografia)</a><br>	
+
+<a> href="#">Vetores e geometria analítica</a><br>	

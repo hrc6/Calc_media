@@ -1,0 +1,77 @@
+<a> href="#">Antropologia Cultural</a><br>	
+
+<a> href="#">Arte e Educação</a>	<br>
+
+<a> href="#">Didática: Competências e Habilidades Docentes</a>	<br>
+
+<a> href="#">Educação de Pessoas Adolescentes, Jovens e Adultos</a>	<br>
+
+<a> href="#">Educação e Movimento Corporal</a>	<br>
+
+<a> href="#">Educação Especial</a>	<br>
+
+<a> href="#">Estagio Supervisionado I</a><br>
+
+<a> href="#">Estagio Supervisionado II</a><br>
+
+<a> href="#">Estágio Supervisionado III</a><br>
+
+<a> href="#">Estágio Supervisionado IV</a><br>
+
+<a> href="#">Filosofia</a>	<br>
+
+<a> href="#">Fundamentos e Metodologias para a Docência do Ensino Médio: Modalidade Normal e profissional	</a><br>
+
+<a> href="#">Fundamentos Teóricos Metodológicos da Alfabetização</a>	<br>
+
+<a> href="#">Fundamentos Teóricos Metodológicos da Educação Infantil.</a>	<br>
+
+<a> href="#">Fundamentos Teóricos Metodológicos da Geografia</a>	<br>
+
+<a> href="#">Fundamentos Teóricos Metodológicos da História</a>	<br>
+
+<a> href="#">Fundamentos Teóricos Metodológicos da Língua Portuguesa</a>	<br>
+
+<a> href="#">Fundamentos Teóricos Metodológicos da Matemática</a>	<br>
+
+<a> href="#">Fundamentos Teóricos Metodológicos das Ciências</a>	<br>
+
+<a> href="#">Gestão Educacional</a>	<br>
+
+<a> href="#">História da Educação	</a><br>
+
+<a> href="#">História Social da Criança</a>	<br>
+
+<a> href="#">Libras / Optativa / Eletiva	</a><br>
+
+<a> href="#">Língua Portuguesa</a>	<br>
+
+<a> href="#">Literatura Infanto-Juvenil</a>	<br>
+
+<a> href="#">Metodologia do Trabalho Cientifico</a>	<br>
+
+<a> href="#">Métodos e Técnicas de Pesquisa</a>	<br>
+
+<a> href="#">Optativa</a>	<br>
+
+<a> href="#">Optativa / Eletiva</a>	<br>
+
+<a> href="#">Optativa / Eletiva</a>	<br>
+
+<a> href="#">Política e Organização da Educação Básica</a>	<br>
+
+<a> href="#">Pratica Educativa I (Profissionalização Docente: trabalho e ética)</a><br>
+
+<a> href="#">Prática Educativa II (Educação e Novas Tecnologias)</a><br>
+
+<a> href="#">Prática Educativa III (Avaliação e Currículo)</a><br>
+
+<a> href="#">Prática Educativa IV (Gestão, Organização do Projeto Pedagógico e Planejamento)</a><br>
+
+<a> href="#">Produção de Texto</a>	<br>
+
+<a> href="#">Psicologia	</a><br>
+
+<a> href="#">Sociologia</a>	<br>
+
+<a> href="#">Trabalho de Conclusão de Curso ( monografia)	</a><br>

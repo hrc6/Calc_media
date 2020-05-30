@@ -1,0 +1,968 @@
+﻿<!DOCTYPE html>
+<html><head>
+  	<title>Calculo UNIAGES</title>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	  
+    <!-- bootstrap-->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+  	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+
+
+    <!--Arquivos-->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <script src="js/Disciplinas.js"></script>
+
+    </head>
+    
+<body id="bodyprincipal">
+
+                                     <!-------------------------------------
+                                     
+                                            DIV COM BOTÕES (CURSOS)
+                                     
+                                     --------------------------------------->
+ 
+<div class="container" id="divcursos" align="center">
+  <br> 
+  		<h1 style="text-align:center; margin-top:-9px; font-family: 'Trajan Pro Regular'; color:#000;"><strong>BEM VINDO (A)</strong></h1>
+        <h3 style="text-align:center; margin-top:-5px; margin-bottom:12px; font-family: 'Trajan Pro Regular'; color:#000;">ESCOLHA O CURSO.</h3>
+         <br>
+       
+       
+      
+  <table>
+ 				<tr>          
+ 					<td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#adm" id="button"><p>ADMINISTRAÇÃO</p></button></td>
+         			<td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#arq" id="bdiferente"><p>ARQUITETURA E<br> URBANISMO</p></button></td>
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#bio" id="button"><p>CIÊNCIAS<br>BIOLÓGICAS</p></button></td>
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#cont" id="bdiferente"><p>CIÊNCIAS<br>CONTÁBEIS</p></button></td>
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#dir" id="button"><p>DIREITO</p></button></td>  
+             	</tr>
+           
+             	<tr>    
+                     
+                     <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#edfl" id="bdiferente"><p>EDUCAÇÃO FÍSICA<br>(BACHARELADO)</p></button></td>
+                     <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#edfb" id="button"><p>EDUCAÇÃO FÍSICA<br>(LICENCIATURA)</p></button></td> 
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#enf" id="bdiferente"><p>ENFERMAGEM</p></button></td> 
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#agro" id="button"><p>ENGENHARIA<br>AGRONÔMICA</p></button></td>
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#civil" id="bdiferente"><p>ENGENHARIA<br>CIVIL</p></button></td>
+             	</tr>
+             
+             	<tr>
+                   
+                    
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#far" id="button"><p>FARMÁCIA</p></button></td>
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#fis" id="bdiferente"><p>FÍSICA</p></button></td>	
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#fisio" id="button"><p>FISIOTERAPIA</p></button></td>  
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#geo" id="bdiferente"><p>GEOGRAFIA</p></button></td>
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#gas" id="button"><p>GASTRONOMIA</p></button></td>
+                    
+             	</tr>
+             
+             	<tr>  
+               		<td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#his" id="bdiferente"><p>HISTÓRIA</p></button></td> 
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#let" id="button"><p>LETRAS</p></button></td>     
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#mat"id="bdiferente"><p>MATEMÁTICA</p></button></td>
+                     <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#medvet"id="button"><p>MEDICINA<br>VETERINÁRIA</p></button></td>
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#nut" id="bdiferente"><p>NUTRIÇÃO</p></button></td>
+                    
+                   
+                </tr>
+            
+             	<tr> 
+                	<td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#odonto" id="button"><p>ODONTOLOGIA</p></button></td>    
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#ped" id="bdiferente"><p>PEDAGOGIA</p></button></td>
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#psi" id="button"><p>PSICOLOGIA</p></button></td>     
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#qui" id="bdiferente"><p>QUÍMICA</p></button></td>        
+                    <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#ss" id="button"><p>SERVIÇO<br>SOCIAL</p></button></td>
+                	
+                </tr>
+                <tr>
+                	 <td><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#si" id="bdiferente"><p>SISTEMAS<br>DE INFORMAÇÃO</p></button></td>
+                	
+                </tr>
+           </form>
+             </table>
+<img src="wallpaper-php.jpg" style="width:100px; height:70px; margin-top:-30px;"/>
+
+        <!----------------------------------------------
+                    Campo (ADMINISTRAÇÃO)
+         ---------------------------------------------->
+	<!-- Modal Administração-->
+  <div class="modal fade" id="adm" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divadm1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divadm2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divadm3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divadm" style="text-align:justify;"></div> 
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+        <!----------------------------------------------
+                    Campo (ARQUITETURA)
+         ---------------------------------------------->
+<!-- Modal Arquitetura-->
+  <div class="modal fade" id="arq" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+          
+                <a href="#" onclick="divarq1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divarq2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divarq3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divarq" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+
+        	<!----------------------------------------------
+                  	   Campo (BIOLOGIA)
+             ---------------------------------------------->
+             
+<!-- Modal Biologia-->
+  <div class="modal fade" id="bio" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+    
+                <a href="#" onclick="divbio1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divbio2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divbio3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divbio" style="text-align:justify;"></div> 
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+     <!----------------------------------------------
+                Campo (CIENCIAS CONTABEIS)
+      ---------------------------------------------->
+               
+  <!-- Modal Ciencias Contabeis-->
+  <div class="modal fade" id="cont" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+             
+                <a href="#" onclick="divcont1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divcont2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divcont3()" style="text-decoration:none;">S - Z</a>
+				<br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divcont" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  <!----------------------------------------------
+                    Campo (DIREITO)
+    ---------------------------------------------->
+                
+  <!-- Modal Direito-->
+  <div class="modal fade" id="dir" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divdir1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divdir2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divdir3()" style="text-decoration:none;">S - Z</a>
+    			<br>
+          </nav>
+        </div>
+        
+		<div class="modal-body">
+             <div id="divdir" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+          <!----------------------------------------------
+                 Campo (EDDUCAÇÃO FISICA - LICENCIATURA)
+           ---------------------------------------------->
+                
+  <!-- Modal Educação fisica licenciatura-->
+  <div class="modal fade" id="edfl" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divedfle1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divedfle2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divedfle3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+          	<div id="divedfle" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  	 <!----------------------------------------------
+          Campo (EDUCAÇÃO FISICA - BACHARELADO)
+      ---------------------------------------------->
+      
+  <!-- Modal Educação Fisica bacharelado-->
+  <div class="modal fade" id="edfb" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            
+                <a href="#" onclick="divedfba1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divedfba2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divedfba3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divedfba" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+      	<!----------------------------------------------
+                    Campo (ENFERMAGEM)
+         ---------------------------------------------->
+               
+  <!-- Modal Enfermagem-->
+  <div class="modal fade" id="enf" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+        
+                <a href="#" onclick="divenf1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divenf2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divenf3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divenf" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+          <!----------------------------------------------
+                     Campo (ENGENHARIA AGRONOMA)
+           ---------------------------------------------->
+                        
+  <!-- Modal Eng. Agronomica-->
+  <div class="modal fade" id="agro" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divagro1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divagro2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divagro3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divagro" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+ 			 <!-----------------------------------------------
+                 	   Campo (ENGENHARIA CIVIL)
+              ---------------------------------------------->
+                
+  <!-- Modal eng. civil-->
+  <div class="modal fade" id="civil" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	 
+                <a href="#" onclick="divcivil1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divcivil2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divcivil3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divcivil" style="text-align:justify;"></div> 
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  			<!----------------------------------------------
+                    Campo (FARMACIA)
+            ---------------------------------------------->
+                
+ <!-- Modal Farmacia-->
+  <div class="modal fade" id="far" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	 
+                <a href="#" onclick="divfarm1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divfarm2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divfarm3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divfarm" style="text-align:justify;"></div> 
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+ 			 <!----------------------------------------------
+                   			 Campo (FISICA)
+              ---------------------------------------------->
+                
+  <!-- Modal Fisica-->
+  <div class="modal fade" id="fis" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divfis1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divfis2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divfis3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divfis" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  			 <!----------------------------------------------
+                         Campo (FISIOTERAPIA)
+              ----------------------------------------------->
+                
+  <!-- Modal Fisioterapia-->
+  <div class="modal fade" id="fisio" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divfisio1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divfisio2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divfisio3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+        	 <div id="divfisio" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+ 		 <!----------------------------------------------
+                    Campo (GEOGRAFIA)
+           ---------------------------------------------->
+                
+  <!-- Modal Geografia-->
+  <div class="modal fade" id="geo" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divgeo1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divgeo2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divgeo3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+    	     <div id="divgeo" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  		<!----------------------------------------------
+                        Campo (GASTRONOMIA)
+         ----------------------------------------------->
+                    
+  <!-- Modal gastronomia-->
+  <div class="modal fade" id="gas" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	    
+                    <a href="#" onclick="divgas1()" style="text-decoration:none;">A - I</a>
+                    <a href="#" onclick="divgas2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                    <a href="#" onclick="divgas3()" style="text-decoration:none;">S - Z</a>
+                    <br>
+          </nav>
+        </div>
+        
+		<div class="modal-body">
+         	<div id="divgas" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  			<!----------------------------------------------
+                    Campo (HISTORIA)
+            ----------------------------------------------->
+                
+  <!-- Modal historia-->
+  <div class="modal fade" id="his" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	 
+                <a href="#" onclick="divhis1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divhis2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divhis3()" style="text-decoration:none;">S - Z</a>
+                <br>
+           </nav>
+        </div>
+		
+        <div class="modal-body">
+             <div id="divhis" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+          <!----------------------------------------------
+                         Campo (LETRA)
+          ----------------------------------------------->
+                    
+  <!-- Modal Letras-->
+  <div class="modal fade" id="let" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	    
+                    <a href="#" onclick="divlet1()" style="text-decoration:none;">A - I</a>
+                    <a href="#" onclick="divlet2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                    <a href="#" onclick="divlet3()" style="text-decoration:none;">S - Z</a>
+                    <br>
+           </nav>
+        </div>
+		
+        <div class="modal-body">
+         <div id="divlet" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  			<!----------------------------------------------
+                 		   Campo (MATEMATICA)
+             ----------------------------------------------->
+                
+  <!-- Modal Matematica-->
+  <div class="modal fade" id="mat" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divmat1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divmat2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divmat3()" style="text-decoration:none;">S - Z</a>
+                <br>
+           </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divmat" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  		<!----------------------------------------------
+                    Campo (MEDICINA VETERINARIA)
+          ----------------------------------------------->
+                
+  <!-- Modal medicina veterinaria-->
+  <div class="modal fade" id="medvet" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+          
+          
+                <a href="#" onclick="divmedvet1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divmedvet2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divmedvet3()" style="text-decoration:none;">S - Z</a>
+                <br>
+           </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divmedvet" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  		<!----------------------------------------------
+                    Campo (NUTRIÇÃO)
+        ---------------------------------------------->
+                
+  <!-- Modal nutrição-->
+  <div class="modal fade" id="nut" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            
+                <a href="#" onclick="divnutri1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divnutri2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divnutri3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+        	 <div id="divnutri" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+ 		 <!----------------------------------------------
+                   	 Campo (ODONTOLOGIA)
+           ---------------------------------------------->
+                
+  <!-- Modal Odontologia-->
+  <div class="modal fade" id="odonto" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divodonto1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divodonto2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divodonto3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divodonto" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+ 
+ 			 <!----------------------------------------------
+                 		   Campo (PSICOLOGIA)
+              ----------------------------------------------->
+                
+  <!-- Modal Psicologia-->
+  <div class="modal fade" id="psi" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	  
+                <a href="#" onclick="divpsi1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divpsi2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divpsi3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divpsi" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  			<!----------------------------------------------
+                	    Campo (PEDAGOGIA)
+               ----------------------------------------------->
+                
+  <!-- Modal Pedagogia-->
+  <div class="modal fade" id="ped" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            
+                <a href="#" onclick="divpeda1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divpeda2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divpeda3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divpeda" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+ 			 <!-----------------------------------------------
+               			     Campo (QUIMICA)
+               ---------------------------------------------->
+                
+  <!-- Modal Quimica-->
+  <div class="modal fade" id="qui" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divqui1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divqui2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divqui3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         	<div id="divqui" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  		<!----------------------------------------------
+                    Campo (SERVIÇO SOCIAL)
+         ---------------------------------------------->
+               
+  <!-- Modal Serviço social-->
+  <div class="modal fade" id="ss" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	
+                <a href="#" onclick="divss1()" style="text-decoration:none;">A - I</a>
+                <a href="#" onclick="divss2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                <a href="#" onclick="divss3()" style="text-decoration:none;">S - Z</a>
+                <br>
+          </nav>
+        </div>
+		
+        <div class="modal-body">
+         <div id="divss" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+  
+  			   <!----------------------------------------------
+                        Campo (SISTEMAS DE INFORMAÇÃO)
+                 ----------------------------------------------->
+                    
+  <!-- Modal sistemas de informaçao-->
+  <div class="modal fade" id="si" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-header">
+          <nav>
+            	    
+                    <a href="#" onclick="divsi1()" style="text-decoration:none;">A - I</a>
+                    <a href="#" onclick="divsi2()" style="text-decoration:none;">&nbsp;&nbsp;J - R&nbsp;&nbsp;</a>
+                    <a href="#" onclick="divsi3()" style="text-decoration:none;">S - Z</a>
+                    <br>
+          </nav>
+        </div>
+        
+		<div class="modal-body">
+         	<div id="divsi" style="text-align:justify;"></div>
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" onClick="Limparpopup()">Fechar</button>
+        </div>
+	  </div>
+    </div>
+  </div>
+  
+ <!-------------------------------
+ 	MODAL DE CALCULO TEORICO
+ -------------------------------->
+ <div class="modal fade" id="cteorico">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                 <h4 class="modal-title">CALCULAR MÉDIA TEÓRICA</h4>
+            </div>
+            <div class="container"></div>
+            <div class="modal-body">
+             <div id="calteorico" style="text-align:left; margin-bottom:10px; margin-left:10px;"><div id="divcalteorico" style="text-align:right; margin-bottom:-20px; z-index:9999; position:absolute; margin-left:300px;"></div>
+             <form>
+             <div>PROVA 50%: </br><input type="number" id="prova50" min="0" max="10" step="0.01" onsubmit="" /></br></div><br>
+             <div>PROVA 100%: </br><input type="number" id="prova100" min="0" max="10" step="0.01" onsubmit=""/></br></div><br>
+             <div>FICHAMENTO: </br><input type="number" id="fichamento" min="0" max="1" step="0.01" onsubmit=""/></br></div><br>
+             <div>PORTFOLIO: </br><input type="number" id="portfolio" min="0" max="1" step="0.01" onsubmit=""/></br></div><br>
+             <div>PRODUÇÃO ÚNICA: </br><input type="number" id="punica" min="-2" max="2" step="0.01" onsubmit=""/></br></div><br>
+             <input type="submit" value="CALCULAR" class="botao" style="position:relative" onclick="calcular()"/></div>
+             </form>
+             
+            </div>
+        </div>
+    </div>
+</div>             
+ 
+
+</body>
+</html>

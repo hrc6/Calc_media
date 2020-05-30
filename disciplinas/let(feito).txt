@@ -1,0 +1,87 @@
+<a> href="#">Antropologia Cultural</a>	<br>
+
+<a> href="#">Crítica Literária</a>	<br>
+
+<a> href="#">Didática</a>	<br>
+
+<a> href="#">Estágio Supervisionado I</a><br>
+
+<a> href="#">Estagio Supervisionado II</a><br>
+
+<a> href="#">Estagio Supervisionado III</a><br>
+
+<a> href="#">Estagio Supervisionado IV</a><br>
+
+<a> href="#">Estilística	</a><br>
+
+<a> href="#">Filosofia</a><br>
+
+<a> href="#">Libras / Optativa / Eletiva</a>	<br>
+
+<a> href="#">Língua Latina</a>	<br>
+
+<a> href="#">Língua Portuguesa</a>	<br>
+
+<a> href="#">Língua Portuguesa II	</a><br>
+
+<a> href="#">Língua Portuguesa III</a>	<br>
+
+<a> href="#">Língua Portuguesa IV	</a><br>
+
+<a> href="#">Língua Portuguesa V	</a><br>
+
+<a> href="#">Língua Portuguesa VI	</a><br>
+
+<a> href="#">Linguística I</a>	<br>
+
+<a> href="#">Linguística II</a>	<br>
+
+<a> href="#">Línguistica III</a>	<br>
+
+<a> href="#">Literatura Brasileira I</a>	<br>
+
+<a> href="#">Literatura Brasileira II</a>	<br>
+
+<a> href="#">Literatura Brasileira III</a>	<br>
+
+<a> href="#">Literatura Portuguesa I</a>	<br>
+
+<a> href="#">Literatura Portuguesa II</a>	<br>
+
+<a> href="#">Metodologia do Trabalho Cientifico</a>	<br>
+
+<a> href="#">Métodos e Técnicas de Pesquisa</a>	<br>
+
+<a> href="#">Optativa / Eletiva</a>	<br>
+
+<a> href="#">Optativa / Eletiva</a><br>
+
+<a> href="#">Optativa / Eletiva</a><br>
+
+<a> href="#">Optativa / Eletiva</a>	<br>
+
+<a> href="#">Optativa / Eletiva</a><br>
+
+<a> href="#">Políticas e Organização da Educação Básica</a>	<br>
+
+<a> href="#">Prática Educativa I (Profissionalização Docente: trabalho e ética)</a>	<br>
+
+<a> href="#">Prática Educativa II (Tecnologias Aplicadas à Educação)</a><br>
+
+<a> href="#">Prática Educativa III (Avaliação e Currículo)</a><br>
+
+<a> href="#">Prática Educativa IV ( Gestão, Organização do Espaço Pedagógico e Planejamento)</a><br>
+
+<a> href="#">Psicologia da Educação</a>	<br>
+
+<a> href="#">Sociologia	</a><br>
+
+<a> href="#">TCC</a><br>
+
+<a> href="#">TCC</a><br>
+
+<a> href="#">Teoria da Literatura I</a>	<br>
+
+<a> href="#">Teoria da Literatura II</a>	<br>
+
+<a> href="#">Trabalho de Conclusão do Curso (monografia)	</a><br>

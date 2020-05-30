@@ -1,0 +1,81 @@
+<a> href="#">Antropologia Cultural</a>	<br>
+
+<a> href="#">Aspectos gerais da geografia física e humana	</a><br>
+
+<a> href="#">Avaliação e Currículo</a><br>
+
+<a> href="#">Cartografia	</a><br>
+
+<a> href="#">Climatologia	</a><br>
+
+<a> href="#">Didática</a>	<br>
+
+<a> href="#">Ecologia geral</a>	<br>
+
+<a> href="#">Educação Especial</a>	<br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva</a>	<br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva (Prática Educativa)</a><br>
+
+<a> href="#">Espaço Agrário Mundial e brasileiro	</a><br>
+
+<a> href="#">Espaço industrial</a><br>
+
+<a> href="#">Espaço urbano mundial brasileiro</a>	<br>
+
+<a> href="#">Estagio Supervisionado (Discentes)</a><br>
+
+<a> href="#">Estagio Supervisionado (Docentes)</a><br>
+
+<a> href="#">Estagio Supervisionado (Gestão Escolar)</a><br>
+
+<a> href="#">Estágio Supervisionado (Sociedade)</a><br>
+
+<a> href="#">Filosofia</a>	<br>
+
+<a> href="#">Geografia da população mundial e brasileira</a>	<br>
+
+<a> href="#">Geografia do Mundo Contemporâneo</a>	<br>
+
+<a> href="#">Geografia política</a>	<br>
+
+<a> href="#">Geo-história	</a><br>
+
+<a> href="#">Geomorfologia</a>	<br>
+
+<a> href="#">Hidrologia</a>	<br>
+
+<a> href="#">Introdução á biogeografia e fundamentos de geologia para geografia	</a><br>
+
+<a> href="#">Introdução ao saber geográfico</a>	<br>
+
+<a> href="#">Libras – Língua Brasileira de Sinais</a>	<br>
+
+<a> href="#">Metodologia do Trabalho Científico</a>	<br>
+
+<a> href="#">Métodos e Técnicas de Pesquisa</a>	<br>
+
+<a> href="#">Novas Tecnologias e História da Educação</a><br>
+
+<a> href="#">O humano e o fenômeno religioso</a>	<br>
+
+<a> href="#">Políticas e Organização da Educação Básica</a>	<br>
+
+<a> href="#">Produção Textual</a>	<br>
+
+<a> href="#">Profissionalização Docente: Trabalho e Ética</a><br>
+
+<a> href="#">Psicologia da Educação</a>	<br>
+
+<a> href="#">Sociologia</a><br>	
+
+<a> href="#">TCC</a><br>
+
+<a> href="#">Trabalho de Conclusão de Curso (monografia)</a><br>

@@ -1,0 +1,73 @@
+<a> href="#">Anatomofisiologia do corpo humano</a>	<br>
+
+<a> href="#">Antropologia	</a><br>
+
+<a href="#">>Avaliação Nutricional e Técnica Dietética</a>	<br>
+
+<a> href="#">Biologia Celular e Histologia</a><br>
+
+<a> href="#">Bioquímica</a>	<br>
+
+<a> href="#">Bromatologia e Tecnologia de Alimentos</a>	<br>
+
+<a> href="#">Ciência da Nutrição</a>	<br>
+
+<a> href="#">Composição de Alimentos</a><br>
+
+<a> href="#">Economia e Finanças	</a><br>
+
+<a> href="#">Eletiva</a>	<br>
+
+<a> href="#">Eletiva</a><br>
+
+<a> href="#">Eletiva (Inglês instrumental)</a>	<br>
+
+<a> href="#">Eletiva (Libras)</a>	<br>
+
+<a> href="#">Empreendedorismo em Nutrição	</a><br>
+
+<a> href="#">Epidemiologia e saúde ambiental</a><br>
+
+<a> href="#">Estágio Supervisionado I (Unidades de Alimentação e Nutrição)</a>	<br>
+
+<a> href="#">Estágio Supervisionado II (Nutrição Clínica)</a><br>
+
+<a> href="#">Estágio Supervisionado III (Nutrição Social)	</a><br>
+
+<a> href="#">Farmacologia</a><br>
+
+<a> href="#">Filosofia	</a><br>
+
+<a> href="#">Fundamentos da Parasitologia	</a><br>
+
+<a> href="#">Gastronomia em nutrição</a>	<br>
+
+<a> href="#">Gestão de Unidades de Alimentação e Nutrição</a><br>
+
+<a> href="#">Imunologia</a>	<br>
+
+<a> href="#">Metodologia do Trabalho Científico	</a><br>
+
+<a> href="#">Microbiologia</a>	<br>
+
+<a> href="#">Nutrição e Dietética</a><br>
+
+<a> href="#">Nutrição e Metabolismo</a>	<br>
+
+<a> href="#">Nutrição em Saúde Pública e Coletiva	</a><br>
+
+<a> href="#">Nutrição Experimental</a>	<br>
+
+<a> href="#">Nutrição nos ciclos da vida</a>	<br>
+
+<a> href="#">Nutrição para a saúde e desempenho esportivo	</a><br>
+
+<a> href="#">Patologia , Nutrição e Dietoterapia	</a><br>
+
+<a> href="#">Produção Textual</a>	<br>
+
+<a> href="#">Psicologia Aplicada à Nutrição</a>	<br>
+
+<a> href="#">Sociologia	</a><br>
+
+<a> href="#">Trabalho de Conclusão de Curso</a><br>

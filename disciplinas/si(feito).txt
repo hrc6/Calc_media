@@ -1,0 +1,87 @@
+<a> href="#">Administração</a><br>
+
+<a> href="#">Arquitetura e Organização de Computadores</a><br>
+
+<a> href="#">Auditoria e Segurança de Sistemas</a><br>
+
+<a> href="#">Banco de Dados (prática)</a><br>
+
+<a> href="#">Comércio Eletrônico e Interface Homem-Máquina (prática)</a>	<br>
+
+<a> href="#">Desenvolvimento de Aplicações para Internet I (prática)</a><br>
+
+<a> href="#">Desenvolvimento de Aplicações para Internet II (prática)</a><br>
+
+<a> href="#">Economia e Finanças</a><br>
+
+<a> href="#">Empreendedorismo e Gestão de Pessoas</a><br>
+
+<a> href="#">Engenharia de Software</a>	<br>
+
+<a> href="#">Estágio Supervisionado I</a><br>
+
+<a> href="#">Estágio Supervisionado II</a><br>
+
+<a> href="#">Estatística</a><br>
+
+<a> href="#">Estrutura de Dados (prática)</a><br>
+
+<a> href="#">Filosofia	</a><br>
+	
+<a> href="#">Fundamentos de Sistemas de Informação</a><br>
+	
+<a> href="#">Gestão da Informação e dos Sistemas de Informação</a><br>
+
+<a> href="#">Inglês	</a><br>
+
+<a> href="#">Introdução á Lógica Matemática	</a><br>
+ 
+<a> href="#">Linguagens Técnicas de Programação I (prática)	</a><br>
+
+<a> href="#">Linguagens e Técnicas de Programação II	</a><br>
+
+<a> href="#">Matemática Discreta	</a><br>
+
+<a> href="#">Metodologia do Trabalho Cientifico</a><br>
+
+<a> href="#">Métodos e Técnicas de Pesquisa</a><br>
+	
+<a> href="#">Optativa / Eletiva</a><br>
+
+<a> href="#">Optativa /Eletiva (Libras)</a><br>
+
+<a> href="#">Planejamento de Gerência de Projetos (prática)</a>	<br>
+	
+<a> href="#">Princípios de Desenvolvimento de Algoritmos (prática) </a><br>
+
+<a> href="#">Produção Multimídia</a><br>
+
+<a> href="#">Produção Textual</a><br>
+		
+<a> href="#">Programação Orientada a Objetos I (prática)</a><br>
+
+<a> href="#">Programação Orientada a Objetos II (prática)</a><br>
+	
+<a> href="#">Redes de Computadores (prática)</a><br>
+	
+<a> href="#">Sistemas de Apoio a Decisão</a><br>
+
+<a> href="#">Sistemas Distribuídos (prática)	</a><br>
+
+<a> href="#">Sistemas Operacionais</a><br>
+
+<a> href="#">Sociologia</a><br>
+
+<a> href="#">Tópicos Integradores I	</a><br>
+
+<a> href="#">Tópicos Integradores II</a><br>
+
+<a> href="#">Trabalho de Conclusão de Curso</a><br>
+
+
+
+	
+ 
+	
+
+

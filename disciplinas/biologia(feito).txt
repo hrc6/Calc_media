@@ -1,0 +1,53 @@
+<a href="#">Antropologia Cultural</a><br><a href="#">Avaliação e Currículo</a><br><a href="#">Biologia Aplicada: Prática para o ensino de Ciências e Biologia</a><br>
+<a href="#">Biologia Celular e Molecular</a><br>
+<a href="#">Biomas Brasileiros: Evolução, caracterização e conservação</a><br>
+<a href="#">Botânica: Fisiologia Vegetal</a><br>
+<a href="#">Botânica: Morfologia e Anatomia Vegetal</a><br>
+<a href="#">Botânica: Sistemática Vegetal</a><br>
+<a href="#">Didática</a><br>
+<a href="#">Ecologia Geral</a><br>
+<a href="#">Educação Ambiental para a Educação Básica</a><br>
+<a href="#">Educação Especial</a><br>
+<a href="#">Eletiva</a><br>
+<a href="#">Estagio Supervisionado(Discente)</a><br>
+<a href="#">Estagio Supervisionado(Discente)</a><br>
+<a href="#">Estagio Supervisionado (Sociedade)</a><br>
+<a href="#">Filosofia</a><br>
+<a href="#">Fisiologia Comparada</a><br>
+<a href="#">Fundamentos da Anatomia e Fisiologia Humana</a><br>	
+<a href="#">Fundamentos da Física e Biofísica</a><br>
+<a href="#">Fundamentos da Matemática e Bioestatística</a><br>
+<a href="#">Fundamentos da Química e Bioquímica</a><br>
+<a href="#">Fundamentos metodológicos do ensino de Ciências e Biologia</a><br>
+<a href="#">Genética e Evolução</a><br>
+<a href="#">Geologia e Paleontologia</a><br>
+<a href="#">Histologia e Biologia do Desenvolvimento</a><br><a href="#">Introdução ao Estudo das Ciências Biológicas</a><br>
+
+<a href="#">Libras – Língua Brasileira de Sinais</a><br>
+<a href="#">Limnologia e Biologia Marinha</a><br>
+<a href="#">Métodos e Técnicas de Pesquisa</a><br>
+<a href="#">Metodologia do Trabalho Científico</a><br>
+<a href="#">Microbiologia Geral e Ambiental	</a><br>
+<a href="#">Novas Tecnologias e História da Educação </a><br>
+<a href="#">Políticas e Organização da Educação Básica</a><br>
+<a href="#">Produção Textual</a><br>
+<a href="#">Profissionalização Docente: Trabalho e Ética</a><br>
+<a href="#">Psicologia da Educação</a><br>
+<a href="#">Sociologia</a><br>
+<a href="#">Trabalho de Conclusão do Curso (monografia)</a><br>
+<a href="#">Zoologia dos Vertebrados</a><br>
+<a href="#">Zoologia dos invertebrados</a><br>
+
+
+
+
+
+	
+
+	
+
+	
+
+
+	
+
